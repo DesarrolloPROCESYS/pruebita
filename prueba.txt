@@ -9,6 +9,6 @@ _x_|_o_|_o_
  x | o | x 
 
 _x_|__|__
-_o_|_o_|__
+_o_|_o_|_x_
  x |  |  
 tu turno prro
