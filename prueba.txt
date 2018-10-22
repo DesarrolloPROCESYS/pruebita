@@ -8,7 +8,7 @@ _o_|_x_|_o_
 _x_|_o_|_o_
  x | o | x 
 
-_x_|_x_|__
+_x_|_x_|_o_
 _o_|_o_|_x_
  x |  | o
 tu turno prro
